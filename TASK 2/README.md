@@ -19,3 +19,10 @@ Kenneth Mahakim
     Kalau filosofi atau cara pandang menurut saya, design itu tidak selalu tentang user dan juga tidak selalu tentang bisnis. Tetapi, tentang keduanya itu yang saya selalu ajarkan kepada murid-murid saya. Saya selalu bilang “Kalau sudah bekerja nanti jangan sampai hanya memenuhi kebutuhan dari kantor saja, kalau bisa kita mempertemukan antara business goals dan user needs.
     Adapun kaidah-kaidah yang dipakai Law of Proximity, Law of Similarity, dan lain-lain. Simple nya ada CRAP yaitu Contrast, Repetition, Alignment, dan Proximity. Bisa breakdown lebih lanjut itu most likely ada di internet, namanya [lawsofux.com](https://www.lawsofux.com). 
 
+3. **Bagaimana cara kita untuk meningkatkan produktivitas feedback dari design kita?**
+
+    _jawab:_
+
+    Ketika kita membicarakan Human Computer Interaction dan irisannya dalam UI/UX, sebenarnya ada Laws of UX itu kalau hubungan Human Computer Interaction productity-nya akan meningkat jika memberikan feedback dibawah 1 detik, kurang lebih 400 milliseconds. 
+    Pertama, kita harus tahu terlebih dahulu ada 3 bagian yang harus di imbangi oleh seorang UI/UX designer. Kalau designer itu ialah yang bisa menyesuaikan bisnis dengan user ada juga case dimana developer memiliki keterbatasan. Kita juga harus memahami dari sudut pandang teknis itu seperti apa. Salah satu prinsip UX itu yang terkait control design adalah Jacob Law. Beliau mengatakan bahwa user itu cenderung menggunakan aplikasi lain. Maka dari itu, kalau bisa aplikasi yang dibuat harus ada cara-cara yang sama sebagaimana aplikasi yang ada sudah bekerja dengan baik. Mendesign sesuatu yang common selama itu fungsional dan sama kaya pattern-nya user itu sendiri atau human yaitu sudah bisa dikatakan balance atau seimbang mau interaksinya sebagaimana selama user-user sudah common memakai itu.
+
