@@ -1,6 +1,6 @@
-# TASK 1 : Menganalisis Design yang Eror
+# TASK 1 : Menganalisis kecelakaan yang terjadi karena desain yang eror (di masa lampau)
 
-## Kecelakaan Ferry
+## Kecelakaan kapal feri
 
 1. Normalnya, semua manusia memiliki kebutuhannya masing-masing untuk menghidupi kehidupannya. Mulai dari yang teraba (konkret), seperti makanan, rumah, & kendaraan, hingga yang tak teraba, seperti pendidikan, psikologi, dan spiritual. Seiring berkembangnya zaman, kebutuhan manusia pun terus berubah-ubah. Terlebih, dengan kemajuan IPTEKS, kebanyakan produk / barang yang dibutuhkan manusia pun umumnya lebih canggih dan inovatif dari yang terdahulu.
 
@@ -17,7 +17,8 @@ Akhirnya, kapal pun menabrak dermaga dengan kecepatan 14 knots atau sekitar 26 k
 Dilaporkan pada laman [NBC New York](https://www.nbcnewyork.com/news/local/ferry-crash-south-street-pier-11/1970100/), setidaknya ada 80 penumpang yang terluka, yang terdiri dari 9 luka luka serius, 2 kritis, dan sisanya luka ringan. Dilaporkan pula dari laman [New York Times](https://www.nytimes.com/2013/01/10/nyregion/ferry-accident-in-lower-manhattan-leaves-many-injured.html), bahwa 1 dari 2 orang yang kritis mengalami trauma parah pada bagian kepala karena terjatuh dari tangga.
 Kecelakaan ini murni disebabkan oleh human error dan design error. Walaupun kapten kapal sudah sangat berpengalaman dan lulus tes narkoba dan alkohol, semua ini tak dapat dihindari dengan adanya 3 konsol panel kontrol dengan tombol-tombol yang kecil dan rumit. 
 
-    ![WhatsApp Image 2020-09-28 at 18 50 59](https://user-images.githubusercontent.com/71898654/94429899-40a60180-01bd-11eb-8064-082bc0b63322.jpeg)
+   
+   <img src='desain-error.jpeg' width='850'>
 
     _Sumber gambar: Jonathan Shariat, Cynthia Savard Saucier, Tragic Design: The Impact of Bad Product Design and How to Fix It_
 
@@ -31,8 +32,16 @@ Kecelakaan ini murni disebabkan oleh human error dan design error. Walaupun kapt
 
 2. Mengoptimalkan Fungsi dari Indikator Tombol
 
-    Hal ini dapat dilakukan dengan meng-upgrade indikator tombol yang sudah ada. Contoh, indikator yang sudah adalah lampu yang awalnya hanya lampu kecil diubah menjadi lampu yang seukuran tombol. Jadi, saat tombol ditekan, tombol pun akan ikut menyala dengan warna …. . Kemudian, untuk tombol-tombol yang digunakan secara sementara seperti tombol backup mode, bisa diberi indikator lampu kedap-kedip. Selain itu, bisa juga dengan menambahkan indikator lain, seperti suara lewat speaker. Contohnya, ketika tombol ditekan, akan ada indikator suara dan untuk tombol backup mode, bisa juga ditambahkan indikator pengingat akan status keaktifan tombol tersebut (misal: indikator suara ”backup mode, on” di tiap 1 menit sekali). Dengan mengikuti langkah ini, kita sudah memenuhi prinsip HCI yaitu feedback (adanya respon berupa lampu atau suara saat tombol tombol ditekan), serta consistency (memberikan indikator pengingat tombol backup mode secara konsisten sehingga tidak lupa untuk dimatikan kembali).
+    Hal ini dapat dilakukan dengan meng-upgrade indikator tombol yang sudah ada. Contoh, indikator yang sudah adalah lampu yang awalnya hanya lampu kecil diubah menjadi lampu yang seukuran tombol. Jadi, saat tombol ditekan, tombol pun akan ikut menyala dengan warna merah Kemudian, untuk tombol-tombol yang digunakan secara sementara seperti tombol backup mode, bisa diberi indikator lampu kedap-kedip. Selain itu, bisa juga dengan menambahkan indikator lain, seperti suara lewat speaker. Contohnya, ketika tombol ditekan, akan ada indikator suara dan untuk tombol backup mode, bisa juga ditambahkan indikator pengingat akan status keaktifan tombol tersebut (misal: indikator suara ”backup mode, on” di tiap 1 menit sekali). Dengan mengikuti langkah ini, kita sudah memenuhi prinsip HCI yaitu feedback (adanya respon berupa lampu atau suara saat tombol tombol ditekan), serta consistency (memberikan indikator pengingat tombol backup mode secara konsisten sehingga tidak lupa untuk dimatikan kembali).
 
 3. Menambahkan Tombol Darurat
     
     Dengan menambahkan tombol darurat pada bagian konsol panel yang masih kosong. Fungsi tombol ini adalah untuk mereset semua mode pada kapal menjadi normal, memperlambat laju kapal, serta menghidupkan alarm sagar upaya penumpang bersiap untuk mengambil posisi teraman. Tombol ini pun harus diberi pelindung kaca sehingga terhindar dari salah tekan dan mudah ditekan pada saat yang dibutuhkan. Dengan adanya tombol ini, maka prinsip pembatasan atau constraint pun terpenuhi.
+    
+### Setelah menganalisis pemicu kecelakaan dan mempertimbangkan prinsip-prinip imk, kami pun membuat desain mockup dari panel konsol kapal feri tersebut:
+   
+  * .svg format 
+   <img src='panel-ferry-new.svg' width='850'>
+   
+  * .jpg format 
+   <img src='panel-konsol-ferry.jpg' width='850'>
