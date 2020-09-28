@@ -31,11 +31,12 @@ Kecelakaan ini murni disebabkan oleh human error dan design error. Walaupun kapt
 
 2. Mengoptimalkan Fungsi dari Indikator Tombol
 
-    Hal ini dapat dilakukan dengan meng-upgrade indikator tombol yang sudah ada. Contoh, indikator yang sudah adalah lampu yang awalnya hanya lampu kecil diubah menjadi lampu yang seukuran tombol. Jadi, saat tombol ditekan, tombol pun akan ikut menyala dengan warna …. . Kemudian, untuk tombol-tombol yang digunakan secara sementara seperti tombol backup mode, bisa diberi indikator lampu kedap-kedip. Selain itu, bisa juga dengan menambahkan indikator lain, seperti suara lewat speaker. Contohnya, ketika tombol ditekan, akan ada indikator suara dan untuk tombol backup mode, bisa juga ditambahkan indikator pengingat akan status keaktifan tombol tersebut (misal: indikator suara ”backup mode, on” di tiap 1 menit sekali). Dengan mengikuti langkah ini, kita sudah memenuhi prinsip HCI yaitu feedback (adanya respon berupa lampu atau suara saat tombol tombol ditekan), serta consistency (memberikan indikator pengingat tombol backup mode secara konsisten sehingga tidak lupa untuk dimatikan kembali).
+    Hal ini dapat dilakukan dengan meng-upgrade indikator tombol yang sudah ada. Contoh, indikator yang sudah adalah lampu yang awalnya hanya lampu kecil diubah menjadi lampu yang seukuran tombol. Jadi, saat tombol ditekan, tombol pun akan ikut menyala dengan warna merah Kemudian, untuk tombol-tombol yang digunakan secara sementara seperti tombol backup mode, bisa diberi indikator lampu kedap-kedip. Selain itu, bisa juga dengan menambahkan indikator lain, seperti suara lewat speaker. Contohnya, ketika tombol ditekan, akan ada indikator suara dan untuk tombol backup mode, bisa juga ditambahkan indikator pengingat akan status keaktifan tombol tersebut (misal: indikator suara ”backup mode, on” di tiap 1 menit sekali). Dengan mengikuti langkah ini, kita sudah memenuhi prinsip HCI yaitu feedback (adanya respon berupa lampu atau suara saat tombol tombol ditekan), serta consistency (memberikan indikator pengingat tombol backup mode secara konsisten sehingga tidak lupa untuk dimatikan kembali).
 
 3. Menambahkan Tombol Darurat
     
     Dengan menambahkan tombol darurat pada bagian konsol panel yang masih kosong. Fungsi tombol ini adalah untuk mereset semua mode pada kapal menjadi normal, memperlambat laju kapal, serta menghidupkan alarm sagar upaya penumpang bersiap untuk mengambil posisi teraman. Tombol ini pun harus diberi pelindung kaca sehingga terhindar dari salah tekan dan mudah ditekan pada saat yang dibutuhkan. Dengan adanya tombol ini, maka prinsip pembatasan atau constraint pun terpenuhi.
     
 ### Setelah menganalisis pemicu kecelakaan dan mempertimbangkan prinsip-prinip imk, kami pun membuat desain mockup dari panel konsol kapal feri tersebut:
-   ![panel-ferry](panel-ferry-new.svg)
+   
+   <img src='panel-ferry-new.svg' width='360'>
