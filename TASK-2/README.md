@@ -4,7 +4,7 @@
 
 * [Tautan hasil wawancara di YouTube](https://www.youtube.com/watch?v=3coKB2uQ4Xs&feature=youtu.be)
 
-* [Tautan Linkedin dan Portofolio Kenneth Mahakim](https://www.linkedin.com/in/kennethmahakim/)
+* [Tautan Linkedin Kenneth Mahakim](https://www.linkedin.com/in/kennethmahakim/)
 
 #### **Hasil Wawancara**
 
