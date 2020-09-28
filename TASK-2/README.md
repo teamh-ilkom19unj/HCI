@@ -10,7 +10,7 @@
 
 * **Kesimpulan : Sesuai dengan hipotesis awal kita mengasumsi bahwa para UI/UX desainer tidak memakai teori Interaksi Manusia Komputer. Hipotesis salah, karena narasumber memakai teori Interaksi Manusia Komputer dalam merancang desain nya.**
 
-* [**Salah satu desain projek narasumber yang telah kami improve berupa mockup, nantinya akan dilampirkan pada bagian akhir setelah hasil wawancara.**](https://github.com/teamh-ilkom19unj/HCI/blob/master/TASK-2/README.md#berikut-salah-satu-desain-projek-dari-narasumber-yang-akan-kami-mockup-yaitu-aplikasi-cmk-club)
+* [**Salah satu desain projek narasumber yang telah kami improve berupa mockup.**](https://github.com/teamh-ilkom19unj/HCI/blob/master/TASK-2/README.md#berikut-salah-satu-desain-projek-dari-narasumber-yang-akan-kami-mockup-yaitu-aplikasi-cmk-club)
 
 #### **Pertanyaan**
 
