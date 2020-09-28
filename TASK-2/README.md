@@ -9,8 +9,7 @@
 
 #### **Hasil Wawancara**
 
-* **Kesimpulan** : 
-Sesuai dengan hipotesis awal kita mengasumsi bahwa para UI/UX desainer tidak memakai teori Interaksi Manusia Komputer. Hipotesis salah, karena narasumber memakai teori Interaksi Manusia Komputer dalam merancang desain nya. 
+* **Kesimpulan : Sesuai dengan hipotesis awal kita mengasumsi bahwa para UI/UX desainer tidak memakai teori Interaksi Manusia Komputer. Hipotesis salah, karena narasumber memakai teori Interaksi Manusia Komputer dalam merancang desain nya.**
 
 * **Salah satu desain projek narasumber yang telah kami improve berupa mockup, nantinya akan dilampirkan pada bagian akhir setelah hasil wawancara.**
 
