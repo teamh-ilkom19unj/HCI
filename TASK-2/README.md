@@ -115,9 +115,15 @@
  <img src='New Mockup.jpg' width='1000'>
 
 ## Perbedaan antara yang lama dan yang baru:
-    
+   * Tab Home
   <img src='BefAf - Home.png' width='1000'>
+    
+   * Tab Profile
   <img src='BefAf - Profile.jpg' width='1000'>
+  
+   * Tab Promotions
   <img src='BefAf - Promotions.jpg' width='1000'>
+  
+   * Tab Rewards
   <img src='BefAf - Rewards.jpg' width='1000'>
 
