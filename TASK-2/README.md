@@ -96,4 +96,19 @@ Sesuai dengan hipotesis awal kita mengasumsi bahwa para UI/UX desainer tidak mem
     _jawab:_
 
     Karena projectnya developernya kabur, waktu itu mau membuat aplikasi travelling untuk haji. Perusahaan travel punya artis tapi saya lupa namanya, nama aplikasinya Jannah, waktu awal ngobrol saya kira hanya membuat companion app-nya saja, ternyata scope fiturnya berkembang hingga perlu ada in-app payment, dari situ jadi harus membicarakan lagi sama developer tentang design pattern itu, seperti apa dari aplikasi payment itu, dan harus belsajar juga alurnya secara teknisnya bagaimana supaya alurnya tidak membuat user tersesat. Yang seperti itu yang harus dipelsajari. Tapi, belum selesai sampai ke develop, developernya kabur. Akhirnya diputuskan dan Project Managernya mengatakan ke saya kalau sudah sampai sini saja, saya hanya membuat mock up user interface-nya saja, untuk dokumentasi serah terima ke kliennya. Jadi, tidak dilanjuntukan.
+    
+## Berikut salah satu desain projek dari narasumber yang akan kami mockup, yaitu aplikasi CMK Club:
+
+ <img src='Old Design.jpg' width='500'>
+
+## Kemudian, ini hasil mockup aplikasi CMK Club dari kelompok kami:
+
+ <img src='New Mockup.jpg' width='500'>
+
+## Perbedaan antara yang lama dan yang baru:
+    
+  <img src='BefAf - Home.png' width='500'>
+  <img src='BefAf - Profile.jpg' width='500'>
+  <img src='BefAf - Promotions.jpg' width='500'>
+  <img src='BefAf - Rewards.jpg' width='500'>
 
