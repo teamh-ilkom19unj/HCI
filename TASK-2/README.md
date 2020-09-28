@@ -101,7 +101,7 @@
 
  <img src='Old Design.jpg' width='1000'>
 
-#### Dari desain lama milik narasumber, kami mendapatkan beberapa ide untuk meng-improve desain tersebut. 
+### Dari desain lama milik narasumber, kami mendapatkan beberapa ide untuk meng-improve desain tersebut. 
 * Pada tab home, kami merasa desainnya terkesan klasik sehingga kami menambahkan menu slide yang langsung memunculkan produk yang akan dijual beserta deskripsi dan harganya. Hal ini dilakukan agar menarik minat user. 
 
 * Pada tab promotion, kami menambahkan fitur bookmark. Langkah ini diambil agar user dapat menyimpan berita / promosi seputar produk yang menurut mereka penting. Selain itu, kami juga menambahkan search bar beserta tombol filter untuk memudah pencarian promosi. 
