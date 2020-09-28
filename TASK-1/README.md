@@ -40,4 +40,8 @@ Kecelakaan ini murni disebabkan oleh human error dan design error. Walaupun kapt
     
 ### Setelah menganalisis pemicu kecelakaan dan mempertimbangkan prinsip-prinip imk, kami pun membuat desain mockup dari panel konsol kapal feri tersebut:
    
+  * .svg format 
    <img src='panel-ferry-new.svg' width='850'>
+   
+  * .jpg format 
+   <img src='panel-konsol-ferry.jpg' width='850'>
