@@ -17,7 +17,7 @@ Akhirnya, kapal pun menabrak dermaga dengan kecepatan 14 knots atau sekitar 26 k
 Dilaporkan pada laman [NBC New York](https://www.nbcnewyork.com/news/local/ferry-crash-south-street-pier-11/1970100/), setidaknya ada 80 penumpang yang terluka, yang terdiri dari 9 luka luka serius, 2 kritis, dan sisanya luka ringan. Dilaporkan pula dari laman [New York Times](https://www.nytimes.com/2013/01/10/nyregion/ferry-accident-in-lower-manhattan-leaves-many-injured.html), bahwa 1 dari 2 orang yang kritis mengalami trauma parah pada bagian kepala karena terjatuh dari tangga.
 Kecelakaan ini murni disebabkan oleh human error dan design error. Walaupun kapten kapal sudah sangat berpengalaman dan lulus tes narkoba dan alkohol, semua ini tak dapat dihindari dengan adanya 3 konsol panel kontrol dengan tombol-tombol yang kecil dan rumit. 
 
-   ![WhatsApp Image 2020-09-28 at 18 50 59](https://user-images.githubusercontent.com/71898654/94429899-40a60180-01bd-11eb-8064-082bc0b63322.jpeg)
+   ![desain-error](desain-error.jpeg)
 
     _Sumber gambar: Jonathan Shariat, Cynthia Savard Saucier, Tragic Design: The Impact of Bad Product Design and How to Fix It_
 
