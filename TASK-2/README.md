@@ -12,6 +12,8 @@
 * **Kesimpulan** : 
 Sesuai dengan hipotesis awal kita mengasumsi bahwa para UI/UX desainer tidak memakai teori Interaksi Manusia Komputer. Hipotesis salah, karena narasumber memakai teori Interaksi Manusia Komputer dalam merancang desain nya. 
 
+* **Salah satu desain projek narasumber yang telah kami improve berupa mockup, nantinya akan dilampirkan pada bagian akhir setelah hasil wawancara.**
+
 #### **Pertanyaan**
 
 1. **Sudah berapa menjadi UX design? Dan mempertahankan experience tersebut dari awal sampai sekarang itu gimana?**
