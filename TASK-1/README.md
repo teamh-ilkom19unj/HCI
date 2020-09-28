@@ -1,6 +1,6 @@
-# TASK 1 : Menganalisis Design yang Eror
+# TASK 1 : Menganalisis kecelakaan yang terjadi karena desain yang eror (di masa lampau)
 
-## Kecelakaan Ferry
+## Kecelakaan kapal feri
 
 1. Normalnya, semua manusia memiliki kebutuhannya masing-masing untuk menghidupi kehidupannya. Mulai dari yang teraba (konkret), seperti makanan, rumah, & kendaraan, hingga yang tak teraba, seperti pendidikan, psikologi, dan spiritual. Seiring berkembangnya zaman, kebutuhan manusia pun terus berubah-ubah. Terlebih, dengan kemajuan IPTEKS, kebanyakan produk / barang yang dibutuhkan manusia pun umumnya lebih canggih dan inovatif dari yang terdahulu.
 
@@ -36,3 +36,6 @@ Kecelakaan ini murni disebabkan oleh human error dan design error. Walaupun kapt
 3. Menambahkan Tombol Darurat
     
     Dengan menambahkan tombol darurat pada bagian konsol panel yang masih kosong. Fungsi tombol ini adalah untuk mereset semua mode pada kapal menjadi normal, memperlambat laju kapal, serta menghidupkan alarm sagar upaya penumpang bersiap untuk mengambil posisi teraman. Tombol ini pun harus diberi pelindung kaca sehingga terhindar dari salah tekan dan mudah ditekan pada saat yang dibutuhkan. Dengan adanya tombol ini, maka prinsip pembatasan atau constraint pun terpenuhi.
+    
+### Setelah menganalisis pemicu kecelakaan dan mempertimbangkan prinsip-prinip imk, kami pun membuat desain mockup dari panel konsol kapal feri tersebut:
+![panel-ferry](panel-ferry-new.svg)
