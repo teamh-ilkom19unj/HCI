@@ -1,5 +1,6 @@
 # TASK 2 : Mewawancarai Seorang UI/UX Desainer
-### Kenneth Mahakim ## UX Instructor at Purwadhika Startup School
+### Kenneth Mahakim, UX Instructor at Purwadhika Startup School
+-----
 
 * [Tautan hasil wawancara di YouTube](https://www.youtube.com/watch?v=3coKB2uQ4Xs&feature=youtu.be)
 
