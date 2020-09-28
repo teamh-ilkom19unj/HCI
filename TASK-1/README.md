@@ -20,7 +20,7 @@ Kecelakaan ini murni disebabkan oleh human error dan design error. Walaupun kapt
    
    <img src='desain-error.jpeg' width='850'>
 
-    _Sumber gambar: Jonathan Shariat, Cynthia Savard Saucier, Tragic Design: The Impact of Bad Product Design and How to Fix It_
+    _Sumber gambar: Shariat, J. & Saucier, C. S., Tragic Design: The Impact of Bad Product Design and How to Fix It_
 
 * Dengan tombol-tombol yang banyak, keterangan tombol yang sulit terbaca, indikator lampu yang sangat kecil, dan penempatan tombol yang tidak begitu teratur, hal ini sangat berbahaya bagi kapten untuk mengontrol kapal, terlebih pada keadaan darurat.
 	
