@@ -99,16 +99,16 @@ Sesuai dengan hipotesis awal kita mengasumsi bahwa para UI/UX desainer tidak mem
     
 ## Berikut salah satu desain projek dari narasumber yang akan kami mockup, yaitu aplikasi CMK Club:
 
- <img src='Old Design.jpg' width='500'>
+ <img src='Old Design.jpg' width='800'>
 
 ## Kemudian, ini hasil mockup aplikasi CMK Club dari kelompok kami:
 
- <img src='New Mockup.jpg' width='500'>
+ <img src='New Mockup.jpg' width='800'>
 
 ## Perbedaan antara yang lama dan yang baru:
     
-  <img src='BefAf - Home.png' width='500'>
-  <img src='BefAf - Profile.jpg' width='500'>
-  <img src='BefAf - Promotions.jpg' width='500'>
-  <img src='BefAf - Rewards.jpg' width='500'>
+  <img src='BefAf - Home.png' width='800'>
+  <img src='BefAf - Profile.jpg' width='800'>
+  <img src='BefAf - Promotions.jpg' width='800'>
+  <img src='BefAf - Rewards.jpg' width='800'>
 
