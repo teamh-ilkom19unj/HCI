@@ -1,4 +1,4 @@
-# Interaksi Manusia dan Komputer 
+# Interaksi Manusia dan Komputer (ASSIGNMENT 2)
   1. Menganalisis kecelakaan yang terjadi karena desain yang eror (di masa lampau)
   2. Mewawancarai seorang UI/UX Desainer
   
