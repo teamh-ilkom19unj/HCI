@@ -12,10 +12,15 @@
 
 <a href = "https://play.google.com/store/apps/details?id=com.rahmatrmdn.catin"> Kescatin: Kesehatan Reproduksi Calon Pengantin</a>
 
+* Pick the app with fitting criteria
+* conduct an evaluation of the app in term of appearance and interaction control
+* Give reasoning why it isn’t pleasant or cumbersome to use
+* Pointed out the flaw in interaction control
+* Identify Key business use cases
+* The output of this task is key use cases, key activity diagrams, and narration
 
 
-[Menganalisis kecelakaan yang terjadi karena desain yang eror (di masa lampau)](TASK-1/README.md)
-
+Jawaban: [Menganalisis kecelakaan yang terjadi karena desain yang eror (di masa lampau)](TASK-1/README.md)
 
 # Task 2
 [Mewawancarai seorang UI/UX Desainer](TASK-2/README.md)
