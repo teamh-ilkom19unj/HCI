@@ -6,7 +6,6 @@
 * [Day 5](https://www.youtube.com/watch?v=rG2fqIo_UoI&t=31s)
 
 
-https://www.youtube.com/watch?v=nfJ_GDCbELM&t=113s
 * [Tautan Linkedin Kenneth Mahakim](https://www.linkedin.com/in/kennethmahakim/)
 
 #### **Hasil Wawancara**
