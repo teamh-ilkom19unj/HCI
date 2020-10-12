@@ -1,8 +1,12 @@
 # TASK 2 : Applying Design Sprint
 -----
 
-* [Tautan hasil wawancara di YouTube](https://www.youtube.com/watch?v=3coKB2uQ4Xs&feature=youtu.be)
+* [Day 1](https://www.youtube.com/watch?v=btmB-ScKcv0)
+* [Day 3](https://www.youtube.com/watch?v=nfJ_GDCbELM&t=113s)
+* [Day 5](https://www.youtube.com/watch?v=rG2fqIo_UoI&t=31s)
 
+
+https://www.youtube.com/watch?v=nfJ_GDCbELM&t=113s
 * [Tautan Linkedin Kenneth Mahakim](https://www.linkedin.com/in/kennethmahakim/)
 
 #### **Hasil Wawancara**
