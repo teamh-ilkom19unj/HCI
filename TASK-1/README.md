@@ -1,6 +1,7 @@
 # TASK 1 : Evaluation of Existing App
 
 # Kescatin
+Kescatin (Kesehatan Reproduksi bagi Calon Pengantin) adalah sebuah aplikasi edukasi bagi calon pengantin. Aplikasi ini memiliki tujuan untuk mengedukasi para calon pengantin agar siap dalam menjalani kehidupan setelah menikah. Mulai dari keharmonisan rumah tangga, kesehatan reproduksi, hingga persiapan kehamilan supaya ibu dan calon bayi lahir selamat dan itu semuanya akan dijelaskan oleh aplikasi ini. Dilengkapi dua fitur utama, yaitu Buku Saku yang berisikan artikel-artikel kesehatan, serta fitur Cek Layak Hamil bagi calon ibu.
 
 ## The Reasons Why the Original Design is Unpleasant and Cumbersome to Use
 
@@ -37,8 +38,6 @@ Adapun beberapa kekurangan dalam bagian interaction control aplikasi ini, yaitu:
 Walaupun memiliki banyak kekurangan, baik dari visual maupun interaction control, tujuan dari aplikasi ini, yaitu untuk mengedukasi calon pengantin, tetap tersampaikan apa adanya.
 
 ## Identify Key business use cases
-Kescatin (Kesehatan Reproduksi bagi Calon Pengantin) adalah sebuah aplikasi edukasi bagi calon pengantin. Aplikasi ini memiliki tujuan untuk mengedukasi para calon pengantin agar siap dalam menjalani kehidupan setelah menikah. Mulai dari keharmonisan rumah tangga, kesehatan reproduksi, hingga persiapan kehamilan supaya ibu dan calon bayi lahir selamat dan itu semuanya akan dijelaskan oleh aplikasi ini. Dilengkapi dua fitur utama, yaitu Buku Saku yang berisikan artikel-artikel kesehatan, serta fitur Cek Layak Hamil bagi calon ibu.
-
 Aplikasi ini pun dilengkapi oleh dua fitur utama / key business use case yang dapat menunjang kebutuhan user. Kedua key business use case tersebut, yaitu:
 1. Membaca Buku Saku
 Di sini, kita dimungkinkan untuk memilih topik artikel dan kemudian membaca isi artikel tersebut
