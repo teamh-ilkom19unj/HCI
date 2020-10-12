@@ -1,8 +1,8 @@
 # TASK 1 : Evaluation of Existing App
 
-## Kescatin
+# Kescatin
 
-### The Reasons Why the Original Design is Unpleasant and Cumbersome to Use
+## The Reasons Why the Original Design is Unpleasant and Cumbersome to Use
 
 Jika dilihat dari tampilannya, aplikasi ini lumayan sederhana. Walaupun tidak terlalu “wah” dan ada beberapa kekurangan pada tampilannya. Adapun kekurangan pada tampilan tersebut, yaitu:
 
@@ -18,7 +18,7 @@ Jika dilihat dari tampilannya, aplikasi ini lumayan sederhana. Walaupun tidak te
 
 ![FONTTIPIS](https://user-images.githubusercontent.com/71898654/95751656-21cd6200-0cc9-11eb-86ba-f00cae242639.jpeg)
 
-### Pointed out the flaw in interaction control
+## Pointed out the flaw in interaction control
 
 Adapun beberapa kekurangan dalam bagian interaction control aplikasi ini, yaitu:
 
@@ -36,22 +36,22 @@ Adapun beberapa kekurangan dalam bagian interaction control aplikasi ini, yaitu:
 
 Walaupun memiliki banyak kekurangan baik dari visual dan interaction control, tujuan dari aplikasi ini, yaitu untuk mengedukasi calon pengantin, tetap tersampaikan apa adanya.
 
-### Identify Key business use cases
+## Identify Key business use cases
 .
 .
 .
 
-### Use Case
+## Use Case
 .
 .
 .
 
-### Activity Diagram
+## Activity Diagram
 .
 .
 .
 
-### Narration
+## Narration
 .
 .
 .
