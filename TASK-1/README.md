@@ -34,7 +34,7 @@ Adapun beberapa kekurangan dalam bagian interaction control aplikasi ini, yaitu:
 
 ![NOINFORMASI](https://user-images.githubusercontent.com/71898654/95751660-2265f880-0cc9-11eb-896b-40dd5082519a.jpeg)
 
-Walaupun memiliki banyak kekurangan baik dari visual dan interaction control, tujuan dari aplikasi ini, yaitu untuk mengedukasi calon pengantin, tetap tersampaikan apa adanya.
+Walaupun memiliki banyak kekurangan, baik dari visual maupun interaction control, tujuan dari aplikasi ini, yaitu untuk mengedukasi calon pengantin, tetap tersampaikan apa adanya.
 
 ## Identify Key business use cases
 .
