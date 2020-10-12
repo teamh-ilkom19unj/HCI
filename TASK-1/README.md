@@ -42,14 +42,13 @@ Walaupun memiliki banyak kekurangan, baik dari visual maupun interaction control
 .
 
 ## Use Case
-.
-.
-.
+![usecase](https://user-images.githubusercontent.com/71898654/95773567-eb9fda80-0ce8-11eb-8e19-66d4912e60f1.jpg)
+
 
 ## Activity Diagram
-.
-.
-.
+![buku saku](https://user-images.githubusercontent.com/71898654/95773573-ed699e00-0ce8-11eb-99ad-9bc28fdf003b.jpg)
+- - - -
+![ceklayakhamil](https://user-images.githubusercontent.com/71898654/95773575-ee023480-0ce8-11eb-9b8c-1a6384a56dd2.jpg)
 
 ## Narration
 .
