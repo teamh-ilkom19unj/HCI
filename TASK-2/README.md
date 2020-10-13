@@ -16,7 +16,6 @@ bagaimana ngumpulin passerby nya (jelasin dikiiiiiiiiit aja)
 * [Day 4](https://www.youtube.com/watch?v=rG2fqIo_UoI&t=31s)
 
 
-* [Tautan Linkedin Rahmat Ramadhan](https://www.linkedin.com/in/rahmatrmdn/)
 
 
 <h2>Design Improvement</h2>
