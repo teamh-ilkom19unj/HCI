@@ -17,7 +17,10 @@ Deskripsi:
 Kescatin (Kesehatan Reproduksi bagi Calon Pengantin) adalah sebuah aplikasi edukasi bagi calon pengantin. Aplikasi ini memiliki tujuan untuk mengedukasi para calon pengantin agar siap dalam menjalani kehidupan setelah menikah. Mulai dari keharmonisan rumah tangga, kesehatan reproduksi, hingga persiapan kehamilan supaya ibu dan calon bayi lahir selamat dan itu semuanya akan dijelaskan oleh aplikasi ini. Dilengkapi dua fitur utama, yaitu Buku Saku yang berisikan artikel-artikel kesehatan, serta fitur Cek Layak Hamil bagi calon ibu. 
 
 # Tentang Developer
-Beliau merupakan mahasiswa yang berprestasi dan memiliki peringkat jurusan di STIS (Sekolah Tinggi Ilmu Statistik) pada peringkat ke 5. Beliau lulus mendapat gelar _summa cumlaude_ dari STIS (Sekolah Tinggi Ilmu Statistik) pada tahun 2020 dan sedang menunggu panggilan kerja dari BPS. Sekarang beliau bekerja sebagai software engineer di UStreet yaitu ojek online yang berbasis di Bandar Lampung.
+Beliau merupakan mahasiswa yang berprestasi dan memiliki peringkat jurusan di STIS (Sekolah Tinggi Ilmu Statistik) pada peringkat ke 5. Dalam masa studinya, beliau banyak mengambil project dari luar sehingga menambah pengalaman menjadi App Developer. Beliau lulus mendapat gelar _summa cumlaude_ dari STIS (Sekolah Tinggi Ilmu Statistik) pada tahun 2020 dan sedang menunggu panggilan kerja dari BPS. Sekarang beliau bekerja sebagai software engineer di UStreet yaitu ojek online yang berbasis di Bandar Lampung.
+
+
+* [Tautan Linkedin Rahmat Ramadhan](https://www.linkedin.com/in/rahmatrmdn/)
 
 # Task 1 
 * Pick the app with fitting criteria
