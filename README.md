@@ -5,13 +5,17 @@
   1. Muhammad Anindyo P. M.  (1313619004)
   2. Putu Sanisa Pascaline   (1313619023)
   3. Handini Aprillia Wijaya (1313619038)
-    
-# Task 1 
-## Aplikasi 
+  
+# Aplikasi 
 ![unnamed](https://user-images.githubusercontent.com/71898654/95710691-689c6700-0c8b-11eb-9bc8-1f12c36ec63a.png)
 
 <a href = "https://play.google.com/store/apps/details?id=com.rahmatrmdn.catin"> Kescatin: Kesehatan Reproduksi Calon Pengantin</a>
+    
+Deskripsi: 
+# Tentang Developer
+Beliau merupakan mahasiswa yang berprestasi dan memiliki peringkat jurusan di STIS (Sekolah Tinggi Ilmu Statistik) pada peringkat ke 5. Beliau lulus mendapat gelar _summa cumlaude_ dari STIS (Sekolah Tinggi Ilmu Statistik) pada tahun 2020 dan sedang menunggu panggilan kerja dari BPS. Sekarang beliau bekerja sebagai software engineer di UStreet yaitu ojek online yang berbasis di Bandar Lampung.
 
+# Task 1 
 * Pick the app with fitting criteria
 * conduct an evaluation of the app in term of appearance and interaction control
 * Give reasoning why it isn’t pleasant or cumbersome to use
