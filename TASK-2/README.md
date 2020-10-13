@@ -126,4 +126,6 @@
   
    * Tab Rewards
   <img src='BefAf - Rewards.jpg' width='1000'>
+  
+  ![buku saku](https://user-images.githubusercontent.com/71898654/95889807-1f443880-0dad-11eb-8c8f-a8533d41db6c.jpg)
 
