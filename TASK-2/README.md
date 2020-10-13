@@ -25,9 +25,9 @@ bagaimana ngumpulin passerby nya (jelasin dikiiiiiiiiit aja)
 
 ***Improvement 1***
 
-**Before** | **After**
----------- | ---------
-<img height=200 src="./Improve/Before.png">|<img height=350 src="./Improve/After.png">
+**Menu Profil dan Start Onboaring** | **After**
+----------------------------------- | ---------------------------------
+<img height=200 src="02-Menu_Profil_dan_Start_Onboarding.jpg">|<img height=350 src="03-OB-JK.jpg">
 
 Pada improvement pertama ini, kami memperbaiki contact info pada bagian bawah website tersebut. Awalnya, contact info tersebut memiliki struktur yang memanjang kesamping dan berdempetan. Menurut kami, desain seperti itu membuat user tidak nyaman untuk membacanya sehingga kami mengganti struktur contact info tersebut menjadi semacam list (terstruktur kebawah) sehingga user lebih nyaman untuk membacanya.
 
