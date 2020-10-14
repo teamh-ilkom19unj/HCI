@@ -1,5 +1,10 @@
 # TASK 1 : Evaluation of Existing App
 
+## Kescatin
+Link Playstore: <a href = "https://play.google.com/store/apps/details?id=com.rahmatrmdn.catin"> Kescatin: Kesehatan Reproduksi Calon Pengantin</a></h3>
+
+Deskripsi: Kescatin (Kesehatan Reproduksi bagi Calon Pengantin) adalah sebuah aplikasi edukasi bagi calon pengantin. Aplikasi ini memiliki tujuan untuk mengedukasi para calon pengantin agar siap dalam menjalani kehidupan setelah menikah. Mulai dari keharmonisan rumah tangga, kesehatan reproduksi, hingga persiapan kehamilan supaya ibu dan calon bayi lahir selamat dan itu semuanya akan dijelaskan oleh aplikasi ini. Dilengkapi dua fitur utama, yaitu Buku Saku yang berisikan artikel-artikel kesehatan, serta fitur Cek Layak Hamil bagi calon ibu. 
+
 ## The Reasons Why the Original Design is Unpleasant and Cumbersome to Use
 
 Jika dilihat dari tampilannya, aplikasi ini lumayan sederhana. Walaupun tidak terlalu “wah” dan ada beberapa kekurangan pada tampilannya. Adapun kekurangan pada tampilan tersebut, yaitu:
