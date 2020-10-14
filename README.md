@@ -8,9 +8,9 @@
   
 # Aplikasi 
 ## Kescatin
-![unnamed](https://user-images.githubusercontent.com/71898654/95710691-689c6700-0c8b-11eb-9bc8-1f12c36ec63a.png)
+![image](https://user-images.githubusercontent.com/71898654/95959712-08452b00-0e2d-11eb-8e05-4b50ae9497c2.png)
 
-<h3><a href = "https://play.google.com/store/apps/details?id=com.rahmatrmdn.catin"> Kescatin: Kesehatan Reproduksi Calon Pengantin</a></h3>
+Link Playstore: <h3><a href = "https://play.google.com/store/apps/details?id=com.rahmatrmdn.catin"> Kescatin: Kesehatan Reproduksi Calon Pengantin</a></h3>
     
 Deskripsi:
 
