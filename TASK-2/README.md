@@ -15,9 +15,11 @@
  1. Expressive
  2. Diverse
  3. Reality Based
-
+ 
+* [**Desain Original.**](https://github.com/teamh-ilkom19unj/HCI/blob/hw2/TASK-2/README.md#desain-original)
 * [**Desain yang terpilih.**](https://github.com/teamh-ilkom19unj/HCI/blob/hw2/TASK-2/README.md#desain-1-desain-yang-terpilih)
 * [**Desain 2.**](https://github.com/teamh-ilkom19unj/HCI/blob/hw2/TASK-2/README.md#desain-2)
+https://github.com/teamh-ilkom19unj/HCI/blob/hw2/TASK-2/README.md#desain-original
 
 ## Phase 3
 * Kamis, 8 Oktober 2020
@@ -40,13 +42,13 @@
 <p> 
 
 ## ***Desain Original*** 
-Desain original atau desain asli aplikasi Kescatin dapat dilihat pada link ini: https://github.com/teamh-ilkom19unj/HCI/tree/hw2/TASK-2/Design_Solution/design_lama </br>
 **Design Original** | **Desain Original**
 ------------------- | ---------------------------------
 <img height=500 src="./Design_Solution/design_lama/home.jpeg">|<img height=500 src="./Design_Solution/design_lama/BUKUSAKU.jpeg">
 <img height=500 src="./Design_Solution/design_lama/ceklayakhamilll.jpeg">|<img height=500 src="./Design_Solution/design_lama/CLHberhasil.jpeg">
 <img height=500 src="./Design_Solution/design_lama/FONTTIPIS.jpeg">|<img height=500 src="./Design_Solution/design_lama/isiartikell.jpeg">
 
+----
 ## ***Desain 1 (Desain yang terpilih)***
 
 **Hasil Re-Design** | **Hasil Re-Design**
