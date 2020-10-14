@@ -40,3 +40,7 @@ Jawaban: [Mengevaluasi Aplikasi yang Ada](TASK-1/README.md)
 * 4th Day: Appeal to customer. Your customer in this case is app developer. You are to conduct dialogue with him and explain why your improved design is necessary. Listen to the         feedback (record)
 
 Jawaban: [Menerapkan Design Sprint](TASK-2/README.md)
+
+# Tools yang Digunakan
+* Mendisain Design Solution: [Figma](https://www.figma.com/files/recent)
+* Edit video rekaman: [VN Video Editor](https://play.google.com/store/apps/details?id=com.frontrow.vlog&hl=en&gl=US)
