@@ -31,15 +31,20 @@
 
 ***Improvement 1***
 
-**Menu Profil dan Start Onboaring** | **After**
------------------------------------ | ---------------------------------
-<img height=500 src="./Design_Solution/design_2_final/02-Menu_Profil_dan_Start_Onboarding.jpg">|<img height=350 src="03-OB-JK.jpg">
-<img height=500 src="./Design_Solution/design_2_final/03-OB-JK.jpg">|<img height=350 src="03-OB-JK.jpg">
+**Hasil Re-Design** | **Hasil Re-Design**
+------------------- | ---------------------------------
+<img height=500 src="./Design_Solution/design_2_final/02-Menu_Profil_dan_Start_Onboarding.jpg">|<img height=500 src="./Design_Solution/design_2_final/03-OB-JK.jpg">
+<img height=500 src="./Design_Solution/design_2_final/04-OB-Umur.jpg">|<img height=500 src="./Design_Solution/design_2_final/05-OB-StatHamil.jpg">
+<img height=500 src="./Design_Solution/design_2_final/06-OB-RiwSakit.jpg">|<img height=500 src="./Design_Solution/design_2_final/07-OB-ENDING.jpg">
+<img height=500 src="./Design_Solution/design_2_final/08-HOME.jpg">|<img height=500 src="./Design_Solution/design_2_final/09-Buku_Saku.jpg">
+<img height=500 src="./Design_Solution/design_2_final/10-PersiapanNikah.jpg">|<img height=500 src="./Design_Solution/design_2_final/11-ARTIKEL_BUKU_SAKU.jpg">
+<img height=500 src="./Design_Solution/design_2_final/12-Cek_Layak_Hamil.jpg">|<img height=500 src="./Design_Solution/design_2_final/13-CLH_DOWN_KEBUKA-BOLE_HAMIL-1.jpg">
+<img height=500 src="./Design_Solution/design_2_final/14-CLH DOWN_KEBUKA_BOLE_HAMIL.jpg">|<img height=500 src="./Design_Solution/design_2_final/15-layak_hamil.jpg">
+<img height=500 src="./Design_Solution/design_2_final/15.5-tidak_layak.jpg">|<img height=500 src="./Design_Solution/design_2_final/16-CLH_DOWN_KEBUKA-GABOLE_HAMIL.jpg">
+<img height=500 src="./Design_Solution/design_2_final/17-artikel_talasemia.jpg">|<img height=500 src="./Design_Solution/design_2_final/7.5-Hasil_Onboarding.jpg">
 
 
-Pada improvement pertama ini, kami memperbaiki contact info pada bagian bawah website tersebut. Awalnya, contact info tersebut memiliki struktur yang memanjang kesamping dan berdempetan. Menurut kami, desain seperti itu membuat user tidak nyaman untuk membacanya sehingga kami mengganti struktur contact info tersebut menjadi semacam list (terstruktur kebawah) sehingga user lebih nyaman untuk membacanya.
 
-***Improvement 2***
 
 
 **Before** | **After**
