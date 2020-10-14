@@ -17,6 +17,8 @@
  3. Reality Based
 * Dua Competiting Designs bisa dilihat pada bagian bawah setelah Phase 4.
 
+* [**Salah satu desain projek narasumber yang telah kami improve berupa mockup.**](https://github.com/teamh-ilkom19unj/HCI/blob/master/TASK-2/README.md#berikut-salah-satu-desain-projek-dari-narasumber-yang-akan-kami-mockup-yaitu-aplikasi-cmk-club)
+
 
 ## Phase 3
 * Kamis, 8 Oktober 2020
@@ -38,7 +40,7 @@
 
 <p> 
 
-***Desain 1 (Desain yang terpilih)***
+## ***Desain 1 (Desain yang terpilih)***
 
 **Hasil Re-Design** | **Hasil Re-Design**
 ------------------- | ---------------------------------
@@ -54,7 +56,7 @@
 
 
 ----
-***Desain 2***
+## ***Desain 2***
 
 **Hasil Re-Design** | **Hasil Re-Design**
 ------------------- | ---------------------------------
