@@ -15,11 +15,11 @@
  1. Expressive
  2. Diverse
  3. Reality Based
-* Dua Competiting Designs bisa dilihat pada bagian bawah setelah Phase 4.
 
-* [**Salah satu desain projek narasumber yang telah kami improve berupa mockup.**](https://github.com/teamh-ilkom19unj/HCI/blob/master/TASK-2/README.md#berikut-salah-satu-desain-projek-dari-narasumber-yang-akan-kami-mockup-yaitu-aplikasi-cmk-club)
+* [**Desain yang terpilih.**](https://github.com/teamh-ilkom19unj/HCI/blob/hw2/TASK-2/README.md#desain-1-desain-yang-terpilih)
+* [**Desain 2.**](https://github.com/teamh-ilkom19unj/HCI/blob/hw2/TASK-2/README.md#desain-2)
 
-
+https://github.com/teamh-ilkom19unj/HCI/blob/hw2/TASK-2/README.md#desain-1-desain-yang-terpilih
 ## Phase 3
 * Kamis, 8 Oktober 2020
 * Menentukan deasin solusi akhir dengan voting. Para voters kami adalah yang pertama, Vina Amanda seorang ibu berumur 27 tahun yang sudah memiliki satu(1) anak yang sedang merencanakan kehamilan kedua, akan sangat tepat jika kami menjadikan Vina Amanda sebagai voters di aplikasi Kesehatan Reproduksi Calon Pengantin. Vina Amanda mengundang adik iparnya yang bernama Sintya Putri yang seorang mahasiswi jurusan akuntansi berumur 19 tahun dan voters kami yang terakhir adalah Sinta Pebriyanti dimana sudah menjadi mahasiswi kedokteran berumur 20 tahun. Kami mengumpulkan para voters dengan cara membuat pengumuman di akun instagram pribadi kami.
