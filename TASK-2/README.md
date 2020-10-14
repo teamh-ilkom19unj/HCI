@@ -25,6 +25,7 @@
 * Link rekaman: [Meeting 3 Team H - Dialog dan Feedback dari App Developer](https://www.youtube.com/watch?v=rG2fqIo_UoI&t=31s)
 
 
+-<a href="https://github.com/teamh-ilkom19unj/HCI/blob/hw2/TASK-2/Subtitles/Script%20Video%201%20-%20Diskusi%20tentang%20Aplikasi%20.srt">And the subtitle is also available here.</a>
 
 
 <h2>Design Improvement</h2>
