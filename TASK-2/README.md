@@ -19,7 +19,7 @@
 * [**Desain Original.**](https://github.com/teamh-ilkom19unj/HCI/blob/hw2/TASK-2/README.md#desain-original)
 * [**Desain yang terpilih.**](https://github.com/teamh-ilkom19unj/HCI/blob/hw2/TASK-2/README.md#desain-1-desain-yang-terpilih)
 * [**Desain 2.**](https://github.com/teamh-ilkom19unj/HCI/blob/hw2/TASK-2/README.md#desain-2)
-https://github.com/teamh-ilkom19unj/HCI/blob/hw2/TASK-2/README.md#desain-original
+
 
 ## Phase 3
 * Kamis, 8 Oktober 2020
@@ -37,7 +37,6 @@ https://github.com/teamh-ilkom19unj/HCI/blob/hw2/TASK-2/README.md#desain-origina
 
 
 <h2>Design Improvement</h2>
-
 
 <p> 
 
