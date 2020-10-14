@@ -44,7 +44,7 @@
 <img height=500 src="./Design_Solution/design_2_final/17-artikel_talasemia.jpg">|<img height=500 src="./Design_Solution/design_2_final/7.5-Hasil_Onboarding.jpg">
 
 
-
+----
 
 
 **Hasil Re-Design** | **Hasil Re-Design**
