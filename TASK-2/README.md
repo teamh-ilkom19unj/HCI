@@ -15,6 +15,7 @@
  1. Expressive
  2. Diverse
  3. Reality Based
+* Dua Competiting Designs bisa dilihat pada bagian bawah setelah Phase 4.
 
 
 ## Phase 3
