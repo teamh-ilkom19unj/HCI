@@ -42,5 +42,5 @@ Jawaban: [Mengevaluasi Aplikasi yang Ada](TASK-1/README.md)
 Jawaban: [Menerapkan Design Sprint](TASK-2/README.md)
 
 # Tools yang Digunakan
-* Mendisain Design Solution: [Figma](https://www.figma.com/files/recent)
+* Mendesain Design Solution: [Figma](https://www.figma.com/files/recent)
 * Edit video rekaman: [VN Video Editor](https://play.google.com/store/apps/details?id=com.frontrow.vlog&hl=en&gl=US)
