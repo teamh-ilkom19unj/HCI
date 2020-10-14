@@ -6,6 +6,8 @@
 * Sabtu, 3 Oktober 2020
 * Diskusi tentang mengapa aplikasi memiliki masalah.
 * Link rekaman: [Meeting 1 Team H - Diskusi tentang Aplikasi yang akan Dievaluasi](https://www.youtube.com/watch?v=btmB-ScKcv0)
+* Subtitle: <a href="https://github.com/teamh-ilkom19unj/HCI/blob/hw2/TASK-2/Subtitles/Script%20Video%201%20-%20Diskusi%20tentang%20Aplikasi%20.srt">Klik disini.</a>
+
 
 ## Phase 2
 * Minggu, 4 Oktober 2020
@@ -18,14 +20,15 @@
 * Kamis, 8 Oktober 2020
 * Menentukan desasin solusi akhir dengan voting. Para voters adalah .... yang kami kumpulkan dengan cara.....
 * Link rekaman: [Meeting 2 Team H - Voting Design Solution Aplikasi](https://www.youtube.com/watch?v=nfJ_GDCbELM&t=113s)
+* Subtitle: <a href="https://github.com/teamh-ilkom19unj/HCI/blob/hw2/TASK-2/Subtitles/Script%20Video%202%20-%20Voting%20Design%20Solution.srt">Klik disini.</a>
+
 
 ## Phase 4
 * Minggu, 11 Oktober 2020
 * Menguji & meminta feedback pada costumer. Costumer di sini merupakan app developer dari aplikasi yang kami evaluasi
 * Link rekaman: [Meeting 3 Team H - Dialog dan Feedback dari App Developer](https://www.youtube.com/watch?v=rG2fqIo_UoI&t=31s)
+* Subtitle: <a href="https://github.com/teamh-ilkom19unj/HCI/blob/hw2/TASK-2/Subtitles/Script%20Video%203%20-%20Dialog%20Dan%20Feedback%20App%20Developer.srt">Klik disini.</a>
 
-
--<a href="https://github.com/teamh-ilkom19unj/HCI/blob/hw2/TASK-2/Subtitles/Script%20Video%201%20-%20Diskusi%20tentang%20Aplikasi%20.srt">And the subtitle is also available here.</a>
 
 
 <h2>Design Improvement</h2>
