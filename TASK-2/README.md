@@ -39,6 +39,14 @@
 
 <p> 
 
+## ***Desain Original*** 
+Desain original atau desain asli aplikasi Kescatin dapat dilihat pada link ini: https://github.com/teamh-ilkom19unj/HCI/tree/hw2/TASK-2/Design_Solution/design_lama </br>
+**Design Original** | **Desain Original**
+------------------- | ---------------------------------
+a|b
+c|d
+e|f
+
 ## ***Desain 1 (Desain yang terpilih)***
 
 **Hasil Re-Design** | **Hasil Re-Design**
