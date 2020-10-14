@@ -9,8 +9,10 @@
 
 ## Phase 2
 * Minggu, 4 Oktober 2020
-* Membuat desain solusi yang bersaing
-* !!! jelasin material design!!!
+* Membuat desain solusi yang bersaing dengan menerapkan Design Material Principles, yaitu:
+ 1. Expressive
+ 2. Diverse
+ 3. Reality Based
 
 ## Phase 3
 * Kamis, 8 Oktober 2020
