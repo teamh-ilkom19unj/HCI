@@ -10,7 +10,7 @@
 ## Kescatin
 ![image](https://user-images.githubusercontent.com/71898654/95959712-08452b00-0e2d-11eb-8e05-4b50ae9497c2.png)
 
-Link Playstore: <h3><a href = "https://play.google.com/store/apps/details?id=com.rahmatrmdn.catin"> Kescatin: Kesehatan Reproduksi Calon Pengantin</a></h3>
+Link Playstore: <a href = "https://play.google.com/store/apps/details?id=com.rahmatrmdn.catin"> Kescatin: Kesehatan Reproduksi Calon Pengantin</a></h3>
     
 Deskripsi:
 
