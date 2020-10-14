@@ -47,9 +47,13 @@
 
 
 
-**Before** | **After**
----------- | ---------
-<img height=300 src="./Improve/Before(2).png">|<img height=300 src="./Improve/After(2).png">
+**Hasil Re-Design** | **Hasil Re-Design**
+------------------- | ---------------------------------
+<img height=500 src="./Design_Solution/design_1/01-loading.png">|<img height=500 src="./Design_Solution/design_1/02-bukusaku.png">
+<img height=500 src="./Design_Solution/design_1/03-bukusaku.png">|<img height=500 src="./Design_Solution/design_1/04-bukusaku.png">
+<img height=500 src="./Design_Solution/design_1/05-isiartikel.png">|<img height=500 src="./Design_Solution/design_1/06-ceklayakhamil.png">
+<img height=500 src="./Design_Solution/design_1/07-layakhamil.png">|<img height=500 src="./Design_Solution/design_1/08-tidaklayakhamil.png">
+
 
 Di improvement kedua, kami memperbaiki logo perusahaan (KOMET), notification button dan profile button yang terletak di pojok kanan atas. Menurut kami, lebih baik logo perusahaan tersebut diletakkan di sebelah kiri notification button dan profile button. Lalu, notification button dan profile button-nya diperbesar. 
 </p>
