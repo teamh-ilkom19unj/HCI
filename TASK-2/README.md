@@ -3,17 +3,23 @@
 ![designsprint](https://user-images.githubusercontent.com/71898654/95820107-b380b200-0d51-11eb-81b0-b18fc98777cc.jpeg)
 
 ## Phase 1
-* [Day 1](https://www.youtube.com/watch?v=btmB-ScKcv0)
+* Sabtu, 3 Oktober 2020
+* Diskusi tentang mengapa aplikasi memiliki masalah.
+* Link rekaman: [Meeting 1 Team H - Diskusi tentang Aplikasi yang akan Dievaluasi](https://www.youtube.com/watch?v=btmB-ScKcv0)
 
 ## Phase 2
-jelasin material design
+* Minggu, 4 Oktober 2020
+* jelasin material design
 
 ## Phase 3
-* [Day 3](https://www.youtube.com/watch?v=nfJ_GDCbELM&t=113s)
-bagaimana ngumpulin passerby nya (jelasin dikiiiiiiiiit aja)
+* Kamis, 8 Oktober 2020
+* Menentukan desasin solusi akhir dengan voting. Para voters adalah .... yang kami kumpulkan dengan cara.....
+* Link rekaman: [Meeting 2 Team H - Voting Design Solution Aplikasi](https://www.youtube.com/watch?v=nfJ_GDCbELM&t=113s)
 
 ## Phase 4
-* [Day 4](https://www.youtube.com/watch?v=rG2fqIo_UoI&t=31s)
+* Minggu, 11 Oktober 2020
+* Menguji & meminta feedback pada costumer. Costumer di sini merupakan app developer dari aplikasi yang kami evaluasi
+* Link rekaman: [Meeting 3 Team H - Dialog dan Feedback dari App Developer](https://www.youtube.com/watch?v=rG2fqIo_UoI&t=31s)
 
 
 
