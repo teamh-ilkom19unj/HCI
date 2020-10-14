@@ -10,7 +10,7 @@
 ## Kescatin
 ![unnamed](https://user-images.githubusercontent.com/71898654/95710691-689c6700-0c8b-11eb-9bc8-1f12c36ec63a.png)
 
-<a href = "https://play.google.com/store/apps/details?id=com.rahmatrmdn.catin"> Kescatin: Kesehatan Reproduksi Calon Pengantin</a>
+<h3><a href = "https://play.google.com/store/apps/details?id=com.rahmatrmdn.catin"> Kescatin: Kesehatan Reproduksi Calon Pengantin</a></h3>
     
 Deskripsi:
 
@@ -31,7 +31,7 @@ Beliau merupakan mahasiswa yang berprestasi dan memiliki peringkat jurusan di ST
 * The output of this task is key use cases, key activity diagrams, and narration
 
 
-Jawaban: [Menganalisis kecelakaan yang terjadi karena desain yang eror (di masa lampau)](TASK-1/README.md)
+Jawaban: [Mengevaluasi Aplikasi yang Ada](TASK-1/README.md)
 
 # Task 2
 
@@ -40,4 +40,4 @@ Jawaban: [Menganalisis kecelakaan yang terjadi karena desain yang eror (di masa 
 * 3rd Day: Each person to represent his/her design along with its navigation. At this stage of the day, your team are also to involve random by passers for the voting (recorded)
 * 4th Day: Appeal to customer. Your customer in this case is app developer. You are to conduct dialogue with him and explain why your improved design is necessary. Listen to the         feedback (record)
 
-Jawaban: [Mewawancarai seorang UI/UX Desainer](TASK-2/README.md)
+Jawaban: [Menerapkan Design Sprint](TASK-2/README.md)
