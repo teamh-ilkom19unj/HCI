@@ -9,7 +9,8 @@
 
 ## Phase 2
 * Minggu, 4 Oktober 2020
-* jelasin material design
+* Membuat desain solusi yang bersaing
+* !!! jelasin material design!!!
 
 ## Phase 3
 * Kamis, 8 Oktober 2020
@@ -29,7 +30,7 @@
 
 <p> 
 
-***Improvement 1***
+***Desain 1 (Desain yang terpilih)***
 
 **Hasil Re-Design** | **Hasil Re-Design**
 ------------------- | ---------------------------------
@@ -45,7 +46,7 @@
 
 
 ----
-
+***Desain 2***
 
 **Hasil Re-Design** | **Hasil Re-Design**
 ------------------- | ---------------------------------
@@ -54,6 +55,5 @@
 <img height=500 src="./Design_Solution/design_1/05-isiartikel.png">|<img height=500 src="./Design_Solution/design_1/06-ceklayakhamil.png">
 <img height=500 src="./Design_Solution/design_1/07-layakhamil.png">|<img height=500 src="./Design_Solution/design_1/08-tidaklayakhamil.png">
 
-
-Di improvement kedua, kami memperbaiki logo perusahaan (KOMET), notification button dan profile button yang terletak di pojok kanan atas. Menurut kami, lebih baik logo perusahaan tersebut diletakkan di sebelah kiri notification button dan profile button. Lalu, notification button dan profile button-nya diperbesar. 
+ 
 </p>
