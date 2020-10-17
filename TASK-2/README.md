@@ -38,7 +38,6 @@
 
 <h2>Design Improvement</h2>
 
-<p> 
 
 ## ***Desain Original*** 
 **Design Original** | **Desain Original**
@@ -74,4 +73,4 @@
 <img height=500 src="./Design_Solution/design_1/07-layakhamil.png">|<img height=500 src="./Design_Solution/design_1/08-tidaklayakhamil.png">
 
  
-</p>
+
