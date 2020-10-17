@@ -3,7 +3,7 @@
 # Team H
   1. Muhammad Anindyo P. M.  (1313619004) <a href = "https://github.com/anindyoo"> GITHUB TEAM WHO CONTRIBUTE</a></h3>
   2. Putu Sanisa Pascaline   (1313619023) <a href = "https://github.com/teamh-ilkom19unj"> GITHUB TEAM WHO CONTRIBUTE</a></h3>
-  3. Handini Aprillia Wijaya (1313619038)
+  3. Handini Aprillia Wijaya (1313619038) <a href = "https://github.com/teamh-ilkom19unj"> GITHUB TEAM WHO CONTRIBUTE</a></h3>
   
 # Aplikasi 
 ## Kescatin
