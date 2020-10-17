@@ -1,8 +1,8 @@
 # Interaksi Manusia dan Komputer (ASSIGNMENT 2)
 
 # Team H
-  1. Muhammad Anindyo P. M.  (1313619004)
-  2. Putu Sanisa Pascaline   (1313619023)
+  1. Muhammad Anindyo P. M.  (1313619004) <a href = "https://github.com/anindyoo"> GITHUB TEAM WHO CONTRIBUTE</a></h3>
+  2. Putu Sanisa Pascaline   (1313619023) <a href = "https://github.com/teamh-ilkom19unj"> GITHUB TEAM WHO CONTRIBUTE</a></h3>
   3. Handini Aprillia Wijaya (1313619038)
   
 # Aplikasi 
